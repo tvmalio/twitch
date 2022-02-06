@@ -1,0 +1,2 @@
+var casas= ["tiene valentía, disposición, coraje y cabarellosidad... Esas son las cualidades de un auténtico... GRYFFINDOR!!!","tiene ambición y astucia... no dudaría de usar eso para conseguir sus objetivos... SLYTHERIN!!!","destaca por su creatividad e inteligencia... siempre busca la respuesta a todas sus inquietudes... RAVENCLAW!!!","tiene lealtad y honestidad... no teme a los trabajos pesados y trabaja como nadie... HUFFLEPUFF!!!"];
+casas[Math.floor(Math.random() * casas.length)]
